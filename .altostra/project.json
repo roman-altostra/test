@@ -1,0 +1,21 @@
+{
+  "id": "test-da10a18",
+  "name": "test",
+  "created": "2022-03-10T16:24:58.942Z",
+  "description": "altostra first import",
+  "blueprints": [
+    {
+      "version": "2019-10-24",
+      "connections": {},
+      "resources": {},
+      "metadata": {
+        "designer": {
+          "resourcePositions": {}
+        }
+      },
+      "id": "test-d900aep",
+      "name": "test"
+    }
+  ],
+  "type": "altostra"
+}
