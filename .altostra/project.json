@@ -1,0 +1,21 @@
+{
+  "id": "test-ba10h84",
+  "name": "test",
+  "created": "2022-03-14T16:10:10.246Z",
+  "description": "",
+  "blueprints": [
+    {
+      "version": "2019-10-24",
+      "connections": {},
+      "resources": {},
+      "metadata": {
+        "designer": {
+          "resourcePositions": {}
+        }
+      },
+      "id": "test-b900hx8",
+      "name": "test"
+    }
+  ],
+  "type": "altostra"
+}
