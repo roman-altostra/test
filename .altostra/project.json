@@ -1,8 +1,8 @@
 {
-  "id": "test-da10a18",
+  "id": "test-ba10h84",
   "name": "test",
-  "created": "2022-03-10T16:24:58.942Z",
-  "description": "altostra first import",
+  "created": "2022-03-14T16:10:10.246Z",
+  "description": "",
   "blueprints": [
     {
       "version": "2019-10-24",
@@ -13,7 +13,7 @@
           "resourcePositions": {}
         }
       },
-      "id": "test-d900aep",
+      "id": "test-b900hx8",
       "name": "test"
     }
   ],
